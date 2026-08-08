@@ -15,7 +15,7 @@ import { Contact } from "@/components/Section/Contact";
 import { Footer } from "@/components/Section/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton/WhatsAppButton";
 import { BackToTop } from "@/components/BackToTop/BackToTop";
-import LoadingScreen from "@/components/LoadingScreen/LoadingScreen";
+import { LoadingScreen } from "@/components/LoadingScreen/LoadingScreen";
 
 export default function Home() {
   return (
