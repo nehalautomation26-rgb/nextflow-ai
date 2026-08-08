@@ -16,7 +16,6 @@ import { Footer } from "@/components/Section/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton/WhatsAppButton";
 import { BackToTop } from "@/components/BackToTop/BackToTop";
 import { LoadingScreen } from "@/components/LoadingScreen/LoadingScreen";
-
 export default function Home() {
   return (
     <main className="min-h-screen bg-[#030712] text-[#F8FAFC] selection:bg-[#2563EB] selection:text-white relative overflow-x-hidden">
